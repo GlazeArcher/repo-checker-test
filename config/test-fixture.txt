@@ -1,2 +1,0 @@
-root=C:\Users\demo\workspace
-authorization=Bearer DEMO_ONLY_1234567890_ABCDEFGHIJ
