@@ -1,1 +1,8 @@
-{}
+{
+  "name": "repo-checker-fixture",
+  "private": true,
+  "scripts": {
+    "start": "node --version",
+    "dev": "node --version"
+  }
+}
